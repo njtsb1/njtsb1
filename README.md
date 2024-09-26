@@ -1,6 +1,6 @@
-Hi, I'm Nivaldo Beirão
+Hi, I'm José Tadeu dos Santos 
 
-How to contact me [![Linkedin Badge](https://img.shields.io/badge/-NivaldoBeirão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldobeirao/)](https://www.linkedin.com/in/nivaldobeirao/)  
+How to contact me [![Linkedin Badge](https://img.shields.io/badge/-JoséTadeudosSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/njtsb1/)](https://www.linkedin.com/in/njtsb1/)  
 
 ![Soft_Hard_Skill](https://github.com/user-attachments/assets/cc4cd640-8f3b-41ac-b469-83aaeae83441)
 

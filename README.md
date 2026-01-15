@@ -87,6 +87,6 @@ A profile that combines practical experience in **commerce, logistics, and finan
 - [DIO](https://dio.me/users/njtsb1)  
 
 <!---
-njtsb1/njtsb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+njtsb1/njtsb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 You can click the Preview link to take a look at your changes.
 --->

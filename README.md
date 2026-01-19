@@ -1,6 +1,13 @@
 # 👋 Welcome to my profile
 
-Graduated in Business Administration and with an MBA in IT Management, I possess a perfectionist, detail-oriented, analytical, and process-driven profile. I work with a focus on organization, clear documentation, and practical solutions that guarantee operational stability and service continuity. I prioritize quality, rigorous review, and meeting deadlines, maintaining a discreet and reliable demeanor. I adopt a methodical approach to team and project management, seeking efficiency and continuous improvement. Sometimes shy, sometimes introverted, sometimes reserved; I am single, without children, and dedicate part of my time to reading and continuous study to improve my technical and management knowledge. I seek opportunities to apply discipline, attention to detail, and commitment to delivering IT and administrative services..
+## Professional Summary
+Graduated in Business Administration and holding an MBA in IT Management, I have a perfectionist, detail‑oriented, analytical, and process‑driven profile. I focus on organization, clear documentation, and practical solutions that ensure operational stability and service continuity. I prioritize quality, rigorous review, and meeting deadlines while maintaining a discreet and reliable demeanor.
+
+## Work Approach and Leadership
+I adopt a methodical approach to team and project management, seeking efficiency and continuous improvement. My work emphasizes structured processes, clear communication, and pragmatic problem solving to sustain day‑to‑day operations and support long‑term goals.
+
+## Personal Notes and Objectives
+Sometimes shy, sometimes introverted, sometimes reserved; I am 35 years old, am single, have no children, and dedicate part of my time to reading and ongoing study to enhance my technical and management skills. I am looking for opportunities to apply discipline, attention to detail, and commitment in IT and administrative service delivery.
 
 ---
 

@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
 
-I am a multifunctional professional with practical experience in **commerce, logistics, and finance**, combined with technical expertise in **technology and academic management**, as well as strong analytical skills in **sports trading investments**.
+Graduated in Business Administration and with an MBA in IT Management, I possess a perfectionist, detail-oriented, analytical, and process-driven profile. I work with a focus on organization, clear documentation, and practical solutions that guarantee operational stability and service continuity. I prioritize quality, rigorous review, and meeting deadlines, maintaining a discreet and reliable demeanor. I adopt a methodical approach to team and project management, seeking efficiency and continuous improvement. Sometimes shy, sometimes introverted, sometimes reserved; I am single, without children, and dedicate part of my time to reading and continuous study to improve my technical and management knowledge. I seek opportunities to apply discipline, attention to detail, and commitment to delivering IT and administrative services..
 
 ---
 

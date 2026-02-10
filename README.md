@@ -92,7 +92,8 @@ A profile that combines practical experience in **commerce, logistics, and finan
 ## 🔗 More Information
 - [Linkedin](https://www.linkedin.com/in/njtsb/)  
 - [DIO](https://dio.me/users/njtsb1)  
-
+- [Online CV](https://njtsb1.github.io/CV_HTML_GitHub_Pages/)
+  
 <!---
 njtsb1/njtsb1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 You can click the Preview link to take a look at your changes.
